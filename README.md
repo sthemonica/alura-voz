@@ -66,34 +66,12 @@ Todo o desenvolvimento feito na nossa 1° semana pode ser observado no [notebook
 
 ### Contatos:
 
-#### Sthefanie 
+#### Sthefanie, Ana Clara, Bruno, João e Mirla 
 <div>
 
-<a href="https://www.linkedin.com/in/sthefanie-monica/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href="https://www.instagram.com/sthemonica/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-</div>
-
-#### Ana 
-<div>
-
+<a href="https://www.linkedin.com/in/sthefanie-monica/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <a href="https://www.linkedin.com/in/anaclara-amioto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-#### Bruno
-<div>
-
 <a href="https://www.linkedin.com/in/bruno-raphaell-alves-de-matos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-#### João
-<div>
-
 <a href="https://www.linkedin.com/in/joaovmiranda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-#### Mirla
-<div>
-
 <a href="https://www.linkedin.com/in/mirla-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
