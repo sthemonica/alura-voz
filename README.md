@@ -94,6 +94,8 @@ Sou bacharela em Informática Biomédica e atualmente mestranda em Bioengenharia
 <img src="https://imgur.com/TpbGKvC">
 
 Estudante de engenharia elétrica na Universidade Federal do Piauí (UFPI) e atualmente scuba de Data Science na Alura. Apaixonado por música, filmes biográficos e programação. No tempo livre tento sair do prata no LoL, tocar algum instrumento e assistir filmes e séries.
+
+
 <a href="https://www.linkedin.com/in/bruno-raphaell-alves-de-matos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 #### João Miranda
@@ -103,6 +105,7 @@ Estudante de engenharia elétrica na Universidade Federal do Piauí (UFPI) e atu
 Bacharel em Matemática pela UFMG e cursando MBA em Data Science e Analytics na USP/Esalq. Atualmente sou monitor na Escola de Dados do grupo Alura. Gosta muito de livros, jogos eletrônicos, boardgames e tiro com arco.
 
 <a href="https://www.linkedin.com/in/joaovmiranda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+
 
 #### Mirla Costa 
 
