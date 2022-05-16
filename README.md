@@ -22,38 +22,78 @@ Junnto a esses dados também foi disponibilizado o [dicionário dos dados](https
 Nela, além da informação se o cliente deixou ou não a empresa, também contém:
 
 <b>Cliente:</b>
-<ul>
-  <li>`gender`: gênero (masculino e feminino)
- <li>`SeniorCitizen`: informação sobre um cliente ter ou não idade igual ou maior que 65 anos
- <li>`Partner`: se o cliente possui ou não um parceiro ou parceira
- <li>`Dependents`: se o cliente possui ou não dependentes
-</ul>
+ 
+* `gender`: gênero (masculino e feminino)
+* `SeniorCitizen`: informação sobre um cliente ter ou não idade igual ou maior que 65 anos
+* `Partner`: se o cliente possui ou não um parceiro ou parceira
+* `Dependents`: se o cliente possui ou não dependentes
+
 <b>Serviço de telefonia</b>
-<ul>
- <li>`tenure`: meses de contrato do cliente
- <li>`PhoneService`: assinatura de serviço telefônico
- <li>`MultipleLines`: assisnatura de mais de uma linha de telefone
-</ul>
+
+
+ * `tenure`: meses de contrato do cliente
+ * `PhoneService`: assinatura de serviço telefônico
+ * `MultipleLines`: assisnatura de mais de uma linha de telefone
+ 
+
 <b>Serviço de internet</b>
-<ul>
- <li>`InternetService`: assinatura de um provedor internet
- <li>`OnlineSecurity`: assinatura adicional de segurança online
- <li>`OnlineBackup`: assinatura adicional de backup online
- <li>`DeviceProtection`: assinatura adicional de proteção no dispositivo
- <li>`TechSupport`: assinatura adicional de suporte técnico, menos tempo de espera
-  <li>`StreamingTV`: assinatura de TV a cabo
-  <li>`StreamingMovies`: assinatura de streaming de filmes
-</ul>
+
+
+ * `InternetService`: assinatura de um provedor internet
+ * `OnlineSecurity`: assinatura adicional de segurança online
+ * `OnlineBackup`: assinatura adicional de backup online
+ * `DeviceProtection`: assinatura adicional de proteção no dispositivo
+ * `TechSupport`: assinatura adicional de suporte técnico, menos tempo de espera
+ * `StreamingTV`: assinatura de TV a cabo
+ * `StreamingMovies`: assinatura de streaming de filmes
+
+
 <b>Contrato</b>
-<ul>
-  <li>`Contract`: tipo de contrato
-  <li>`PaperlessBilling`: se o cliente prefere receber online a fatura
-  <li>`PaymentMethod`: forma de pagamento
-  <li>`Charges.Monthly`: total de todos os serviços do cliente por mês
-  <li>`Charges.Total`: total gasto pelo cliente
-  </ul>
-</ul>
+
+
+ * `Contract`: tipo de contrato
+ * `PaperlessBilling`: se o cliente prefere receber online a fatura
+ * `PaymentMethod`: forma de pagamento
+ * `Charges.Monthly`: total de todos os serviços do cliente por mês
+ * `Charges.Total`: total gasto pelo cliente
 
 Tendo essas informações entendemos nossos dados e, assim, podemos realizar uma análise mais técnica, buscando entender JSON, os dados e realizar o tratamento deles.
 
-Todo o desenvolvimento feito na nossa 1° semana pode ser observado no [notebook semana 1]().
+Todo o desenvolvimento feito na nossa 1° semana pode ser observado no [notebook semana 1](https://github.com/sthemonica/alura-voz/blob/main/1-Limpeza%20dos%20dados/limpeza.ipynb).
+
+#alura #alurachallengedatascience1
+
+
+### Contatos:
+
+#### Sthefanie 
+<div>
+
+<a href="https://www.linkedin.com/in/sthefanie-monica/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.instagram.com/sthemonica/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+</div>
+
+#### Ana 
+<div>
+
+<a href="https://www.linkedin.com/in/anaclara-amioto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+#### Bruno
+<div>
+
+<a href="https://www.linkedin.com/in/bruno-raphaell-alves-de-matos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+#### João
+<div>
+
+<a href="https://www.linkedin.com/in/joaovmiranda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+#### Mirla
+<div>
+
+<a href="https://www.linkedin.com/in/mirla-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
