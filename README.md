@@ -68,9 +68,9 @@ Todo o desenvolvimento feito na nossa 1° semana pode ser observado no [notebook
 
 #### Sthefanie Monica
 
-<left>
-  <img src="https://imgur.com/PPEmT1K">
-</left>
+<div align="left">
+<img src="https://imgur.com/PPEmT1K" width="700px" />
+</div>
 
 
 Bacharela em Engenharia Elétrica pela UTFPR e atualmente instrutora de Data Science na Alura. Durante o período de graduação realizei diversas pesquisas voltadas à redes neurais e visão computacional, inclusive um período de pesquisa no Hospital Israelita Albert Einstein. No meu tempo livre adoro jogar, seja boardgames ou jogos eletrônicos, e amo conhecer novos lugares e pessoas, então estou sempre planejando a próxima viagem.
@@ -78,8 +78,6 @@ Bacharela em Engenharia Elétrica pela UTFPR e atualmente instrutora de Data Sci
 <div>
 <a href="https://www.linkedin.com/in/sthefanie-monica/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  
-
-
 
 #### Ana Clara
 
