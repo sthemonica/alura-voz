@@ -64,7 +64,7 @@ Todo o desenvolvimento feito na nossa 1° semana pode ser observado no [notebook
 #alura #alurachallengedatascience1
 
 
-### Conmheça a equipe
+## Conheça a equipe
 
 #### Sthefanie Monica
 
