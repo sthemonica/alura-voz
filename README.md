@@ -64,13 +64,48 @@ Todo o desenvolvimento feito na nossa 1° semana pode ser observado no [notebook
 #alura #alurachallengedatascience1
 
 
-### Contatos:
+### Conmheça a equipe
 
-#### Sthefanie, Ana Clara, Bruno, João e Mirla 
+#### Sthefanie Monica
+
+<img src="https://imgur.com/PPEmT1K">
+
+Bacharela em Engenharia Elétrica pela UTFPR e atualmente instrutora de Data Science na Alura. Durante o período de graduação realizei diversas pesquisas voltadas à redes neurais e visão computacional, inclusive um período de pesquisa no Hospital Israelita Albert Einstein. No meu tempo livre adoro jogar, seja boardgames ou jogos eletrônicos, e amo conhecer novos lugares e pessoas, então estou sempre planejando a próxima viagem.
+
 <div>
 <a href="https://www.linkedin.com/in/sthefanie-monica/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-<a href="https://www.linkedin.com/in/anaclara-amioto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+ 
+
+
+
+#### Ana Clara
+
+<img src="https://imgur.com/DAYE0yR">
+
+Sou bacharela em Informática Biomédica e atualmente mestranda em Bioengenharia, ambas pela USP. Atuo como pesquisadora FAPESP e instrutora na Escola de Dados da Alura. Já realizei estágio no Hospital das Clínicas-FMRP, sou cofundadora e atual conselheira do grupo Data Girls. Possuo grande interesse na área de Ciência de Dados e Inteligência Artificial com aplicações em diferentes áreas de negócio. Além disso sou apaixonada por livros, séries, games e um bom café.
+
+<a href="https://www.linkedin.com/in/anaclara-amioto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+
+#### Bruno Raphaell
+
+<img src="https://imgur.com/TpbGKvC">
+
+Estudante de engenharia elétrica na Universidade Federal do Piauí (UFPI) e atualmente scuba de Data Science na Alura. Apaixonado por música, filmes biográficos e programação. No tempo livre tento sair do prata no LoL, tocar algum instrumento e assistir filmes e séries.
 <a href="https://www.linkedin.com/in/bruno-raphaell-alves-de-matos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href="https://www.linkedin.com/in/joaovmiranda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
+#### João Miranda
+
+<img src="https://imgur.com/6evW05p">
+
+Bacharel em Matemática pela UFMG e cursando MBA em Data Science e Analytics na USP/Esalq. Atualmente sou monitor na Escola de Dados do grupo Alura. Gosta muito de livros, jogos eletrônicos, boardgames e tiro com arco.
+
+<a href="https://www.linkedin.com/in/joaovmiranda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+
+#### Mirla Costa 
+
+<img src="https://imgur.com/vrbN6ov">
+
+Graduanda em Engenharia elétrica pela Universidade Federal do Piauí com pesquisa focada em Aprendizado de Máquina e Inteligência Computacional. Atuo como Scuba na escola de Data Science da Alura sempre amei muito programar, ensinar de trabalhar com tecnologia. Meu tempo livre dedico a brincar com meus animias, assistir animações e séries, além de jogar RPG de mesa.
+
 <a href="https://www.linkedin.com/in/mirla-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
