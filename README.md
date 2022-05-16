@@ -82,7 +82,7 @@ Bacharela em Engenharia Elétrica pela UTFPR e atualmente instrutora de Data Sci
 #### Ana Clara
 
 <div align="left">
-<img src="https://i.imgur.com/PPEmT1K.png" width="300px" />
+<img src="https://i.imgur.com/DAYE0yR.png" width="300px" />
 </div>
 
 Sou bacharela em Informática Biomédica e atualmente mestranda em Bioengenharia, ambas pela USP. Atuo como pesquisadora FAPESP e instrutora na Escola de Dados da Alura. Já realizei estágio no Hospital das Clínicas-FMRP, sou cofundadora e atual conselheira do grupo Data Girls. Possuo grande interesse na área de Ciência de Dados e Inteligência Artificial com aplicações em diferentes áreas de negócio. Além disso sou apaixonada por livros, séries, games e um bom café.
@@ -92,7 +92,7 @@ Sou bacharela em Informática Biomédica e atualmente mestranda em Bioengenharia
 #### Bruno Raphaell
 
 <div align="left">
-<img src="https://i.imgur.com/PPEmT1K.png" width="300px" />
+<img src="https://i.imgur.com/TpbGKvC.png" width="300px" />
 </div>
 
 
@@ -104,7 +104,7 @@ Estudante de engenharia elétrica na Universidade Federal do Piauí (UFPI) e atu
 #### João Miranda
 
 <div align="left">
-<img src="https://i.imgur.com/PPEmT1K.png" width="300px" />
+<img src="https://i.imgur.com/6evW05p.png" width="300px" />
 </div>
 
 
@@ -116,7 +116,7 @@ Bacharel em Matemática pela UFMG e cursando MBA em Data Science e Analytics na 
 #### Mirla Costa 
 
 <div align="left">
-<img src="https://i.imgur.com/PPEmT1K.png" width="300px" />
+<img src="https://i.imgur.com/vrbN6ov.png" width="300px" />
 </div>
 
 
