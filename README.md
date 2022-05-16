@@ -68,7 +68,6 @@ Todo o desenvolvimento feito na nossa 1° semana pode ser observado no [notebook
 
 #### Sthefanie, Ana Clara, Bruno, João e Mirla 
 <div>
-
 <a href="https://www.linkedin.com/in/sthefanie-monica/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <a href="https://www.linkedin.com/in/anaclara-amioto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href="https://www.linkedin.com/in/bruno-raphaell-alves-de-matos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
