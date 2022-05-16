@@ -69,7 +69,7 @@ Todo o desenvolvimento feito na nossa 1° semana pode ser observado no [notebook
 #### Sthefanie Monica
 
 <div align="left">
-<img src="https://imgur.com/PPEmT1K" width="700px" />
+<img src="https://i.imgur.com/PPEmT1K.png" width="700px" />
 </div>
 
 
