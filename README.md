@@ -69,6 +69,16 @@ Planejamos assim, fazer uma **análise estatística** dos dados, verificar os **
 
 Todo o desenvolvimento e análise feita na nossa 2° semana pode ser observado no [notebook semana 2](https://github.com/sthemonica/alura-voz/blob/main/2-%20An%C3%A1lise%20dos%20dados/analise.ipynb).
 
+## Semana 3 - Modelos de Machine Learning
+
+Ao discutir e verificar todas as análises feitas na 2° semana, concluímos que uma boa opção para minimizar a evasão de clientes na Alura Voz é ter um modelo treinado que vai classificar clientes como potenciais pessoas a deixar a empresa e assim, a equipe de vendas pode agir antes que isso possa, de fato, ocorrer.
+
+Com isso, iniciamos a preparação de dados para serem enviados aos modelos. Pelos estudos da semana 2, nós já tinhamos identificado entradas desinteressantes para o aprendizado, dados categóricos não numéricos que seriam impossíveis de serem reconhecidos por um modelo matemático, além de termos o nosso alvo com valores desbalanceados. Esses dados logo foram tratados para se ajustarem ao modelo.
+
+Os modelos de classificação que definimos serem interessantes para solucionar nosso problema foram o **SVC**, **Decision Tree** e **Random Forest**. No entanto, não entramos em um consenso de qual modelo seria o melhor para o caso. Por isso, decidimos criar os 3 modelos e treiná-los, para que na nossa última semana pudessemos avaliar qual o mais interessante de ser utilizado.
+
+Todo o desenvolvimento e análise feita na nossa 3° semana pode ser observado no [notebook semana 3]().
+
 #alura #alurachallengedatascience1
 
 
