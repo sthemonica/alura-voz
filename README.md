@@ -77,7 +77,7 @@ Com isso, iniciamos a preparação de dados para serem enviados aos modelos. Pel
 
 Os modelos de classificação que definimos serem interessantes para solucionar nosso problema foram o **SVC**, **Decision Tree** e **Random Forest**. No entanto, não entramos em um consenso de qual modelo seria o melhor para o caso. Por isso, decidimos criar os 3 modelos e treiná-los, para que na nossa última semana pudessemos avaliar qual o mais interessante de ser utilizado.
 
-Todo o desenvolvimento e análise feita na nossa 3° semana pode ser observado no [notebook semana 3]().
+Todo o desenvolvimento e análise feita na nossa 3° semana pode ser observado no [notebook semana 3 dos modelos](https://github.com/sthemonica/alura-voz/blob/main/3-Modelos%20de%20ML/modelos.ipynb) e [notebook semana 3 melhoria do melhor modelo](https://github.com/sthemonica/alura-voz/blob/main/4-Melhorando%20o%20modelo/otimizacao.ipynb).
 
 #alura #alurachallengedatascience1
 
